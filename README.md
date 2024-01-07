@@ -44,20 +44,20 @@ Plots depicting training loss and accuracy ("plot.png").
 
 # Run Main Face Mask Detection Video Code
 
-# 1 Install Required Libraries: 
+# Step 1: Install Required Libraries: 
 Ensure you have the necessary libraries installed. The code requires TensorFlow, NumPy, imutils, and OpenCV (cv2). You can install them via pip:
 
 pip install tensorflow numpy imutils opencv-python
 
-# 2 Download Model Files:
+# Step 2: Download Model Files:
 
 Download the face detector model files (deploy.prototxt and res10_300x300_ssd_iter_140000.caffemodel) from here.
 Save the downloaded model files in a folder named face_detector.
-# 3 Download Mask Detection Model:
+# Step 3: Download Mask Detection Model:
 
 Download the face mask detection model (mask_detector.model) or train your own. Ensure the path to this model is correctly specified in the code.
 
-# 4 Run the Code:
+# Step 4: Run the Code:
 
 1. Copy the provided code into a Python environment (e.g., a Python script or a Jupyter Notebook).
 2. Update the paths to the face detector model (prototxtPath and weightsPath) and the face mask detection model (maskNet) in the code.
@@ -65,6 +65,6 @@ Download the face mask detection model (mask_detector.model) or train your own. 
 4. A window should open displaying the webcam feed with predictions regarding whether a person is wearing a mask or not.
 5. Press 'q' to exit the program and close the window.
 
-# 5 Verify Output:
+# Step 5: Verify Output:
 
 As the code runs, it will detect faces and predict whether they are wearing masks or not. The console will print whether a mask is detected or not.
