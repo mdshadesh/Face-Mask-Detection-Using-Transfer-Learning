@@ -44,7 +44,8 @@ Plots depicting training loss and accuracy ("plot.png").
 
 # Run Main Face Mask Detection Video Code
 
-# 1 Install Required Libraries: Ensure you have the necessary libraries installed. The code requires TensorFlow, NumPy, imutils, and OpenCV (cv2). You can install them via pip:
+# 1 Install Required Libraries: 
+Ensure you have the necessary libraries installed. The code requires TensorFlow, NumPy, imutils, and OpenCV (cv2). You can install them via pip:
 
 pip install tensorflow numpy imutils opencv-python
 
