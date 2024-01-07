@@ -68,3 +68,12 @@ Download the face mask detection model (mask_detector.model) or train your own. 
 # Step 5: Verify Output:
 
 As the code runs, it will detect faces and predict whether they are wearing masks or not. The console will print whether a mask is detected or not.
+
+
+
+
+
+
+
+# Also You Can See My Code: https://www.kaggle.com/code/shadesh/enhancing-public-health-a-better-approach-for-fac/edit
+
