@@ -1,3 +1,60 @@
+<h1 align="center">Hi 👋, I'm Naimul Hasan Shadesh</h1>
+<h3 align="center">Introducing 'Enhancing Public Health: A Better Approach for Face Mask Detection Using Transfer Learning.' Our comprehensive guide empowers public health initiatives by leveraging advanced techniques to enhance face mask detection</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdshadesh&label=Profile%20views&color=0e75b6&style=flat" alt="mdshadesh" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdshadesh" alt="mdshadesh" /></a> </p>
+
+- 🔭 I’m currently working on [AI, ML, DL Project](https://www.kaggle.com/shadesh)
+
+- 👨‍💻 All of my projects are available at [https://mdshadesh.github.io/Portfolio-NHS-/](https://mdshadesh.github.io/Portfolio-NHS-/)
+
+- 📝 I regularly write articles on [https://mdshadesh.github.io/Portfolio-NHS-/](https://mdshadesh.github.io/Portfolio-NHS-/)
+
+- 📄 Know about my experiences [https://mdshadesh.github.io/Portfolio-NHS-/](https://mdshadesh.github.io/Portfolio-NHS-/)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/shadesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shadesh" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdshadesh&show_icons=true&locale=en&layout=compact" alt="mdshadesh" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdshadesh&show_icons=true&locale=en" alt="mdshadesh" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdshadesh&" alt="mdshadesh" /></p>
+
+
+"Introducing 'Enhancing Public Health: A Better Approach for Face Mask Detection Using Transfer Learning.' Our comprehensive guide empowers public health initiatives by leveraging advanced techniques to enhance face mask detection. Here's everything you need to know:
+
+### Key Features:
+- Utilizes transfer learning for precise face mask detection.
+- Empowers public health initiatives by enhancing safety measures.
+- Provides step-by-step instructions for both model training and real-time detection.
+
+### How to Use:
+
+#### Training Project:
+1. **Install Required Libraries:** `pip install tensorflow scikit-learn matplotlib numpy opencv-python`
+2. **Set Up Directory:** Ensure your images are categorized into 'with_mask' and 'without_mask'. Update `DIRECTORY` variable in the code.
+3. **Run the Code:** Copy and paste the code into a Python environment and execute it.
+
+#### Running Face Mask Detection:
+1. **Install Required Libraries:** `pip install tensorflow numpy imutils opencv-python`
+2. **Download Model Files:** Obtain face detector model files from the provided link and save them in a folder named 'face_detector'.
+3. **Download Mask Detection Model:** Acquire the face mask detection model or train your own. Ensure correct path specification in the code.
+4. **Run the Code:** Copy the code, update model paths, and execute the script.
+5. **Verify Output:** View real-time predictions on the webcam feed.
+
+### Explore the Code:
+View the code and detailed guidelines on [Kaggle](https://www.kaggle.com/code/shadesh/enhancing-public-health-a-better-approach-for-fac/edit) for seamless implementation.
+
+Enhance safety and prevent airborne diseases effectively with our advanced face mask detection approach. Take charge of public health with precision and efficiency."
+
+
 # Face-Mask-Detection-Using-Transfer-Learning
 Enhancing Public Health: a Better Approach for Face Mask Detection Using Transfer Learning to Prevent Airborne Disease
 
